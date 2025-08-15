@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1755182143,,"wq"
+|2,0,1755267249,,"wq"
+:q
+|2,0,1755266497,,"q"
 
 # Search String History (newest to oldest):
 
@@ -23,118 +25,273 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	>>>>>>> 993f2bf7361491d6fc96d7281eeaa484ad61fe90
+|3,1,36,0,1,0,1755266551,">>>>>>> 993f2bf7361491d6fc96d7281eeaa484ad61fe90"
 
 # File marks:
-'0  2  15  ~/rego.txt
-|4,48,2,15,1755182143,"~/rego.txt"
-'1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1755181957,"~/.git/COMMIT_EDITMSG"
-'2  1  0  ~/authorized_keys
-|4,50,1,0,1755181464,"~/authorized_keys"
-'3  2  0  ~/rego.txt
-|4,51,2,0,1755181130,"~/rego.txt"
-'4  2  0  ~/john
-|4,52,2,0,1755009505,"~/john"
+'0  2  17  ~/johnrego/second
+|4,48,2,17,1755267249,"~/johnrego/second"
+'1  1  17  ~/johnrego/rego
+|4,49,1,17,1755267241,"~/johnrego/rego"
+'2  2  17  ~/johnrego/second
+|4,50,2,17,1755267146,"~/johnrego/second"
+'3  2  17  ~/johnrego/second
+|4,51,2,17,1755267075,"~/johnrego/second"
+'4  2  17  ~/johnrego/second
+|4,52,2,17,1755267075,"~/johnrego/second"
+'5  1  20  ~/johnrego/second
+|4,53,1,20,1755266884,"~/johnrego/second"
+'6  1  20  ~/johnrego/second
+|4,54,1,20,1755266884,"~/johnrego/second"
+'7  1  20  ~/johnrego/second
+|4,55,1,20,1755266884,"~/johnrego/second"
+'8  1  20  ~/johnrego/second
+|4,56,1,20,1755266884,"~/johnrego/second"
+'9  1  20  ~/johnrego/second
+|4,57,1,20,1755266884,"~/johnrego/second"
 
 # Jumplist (newest first):
--'  2  15  ~/rego.txt
-|4,39,2,15,1755182143,"~/rego.txt"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1755181957,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1755181957,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/authorized_keys
-|4,39,1,0,1755181464,"~/authorized_keys"
--'  1  0  ~/authorized_keys
-|4,39,1,0,1755181464,"~/authorized_keys"
--'  1  0  ~/authorized_keys
-|4,39,1,0,1755181464,"~/authorized_keys"
--'  1  0  ~/authorized_keys
-|4,39,1,0,1755181464,"~/authorized_keys"
--'  2  0  ~/rego.txt
-|4,39,2,0,1755181130,"~/rego.txt"
--'  2  0  ~/rego.txt
-|4,39,2,0,1755181130,"~/rego.txt"
--'  2  0  ~/rego.txt
-|4,39,2,0,1755181130,"~/rego.txt"
--'  2  0  ~/rego.txt
-|4,39,2,0,1755181130,"~/rego.txt"
--'  1  0  ~/rego.txt
-|4,39,1,0,1755181113,"~/rego.txt"
--'  1  0  ~/rego.txt
-|4,39,1,0,1755181113,"~/rego.txt"
--'  1  0  ~/rego.txt
-|4,39,1,0,1755181113,"~/rego.txt"
--'  1  0  ~/rego.txt
-|4,39,1,0,1755181113,"~/rego.txt"
--'  1  0  ~/rego.txt
-|4,39,1,0,1755181113,"~/rego.txt"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  2  0  ~/john
-|4,39,2,0,1755009505,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
--'  1  0  ~/john
-|4,39,1,0,1755009491,"~/john"
+-'  2  17  ~/johnrego/second
+|4,39,2,17,1755267249,"~/johnrego/second"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755267241,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755267241,"~/johnrego/rego"
+-'  2  17  ~/johnrego/second
+|4,39,2,17,1755267146,"~/johnrego/second"
+-'  2  17  ~/johnrego/second
+|4,39,2,17,1755267146,"~/johnrego/second"
+-'  2  17  ~/johnrego/second
+|4,39,2,17,1755267075,"~/johnrego/second"
+-'  2  17  ~/johnrego/second
+|4,39,2,17,1755267075,"~/johnrego/second"
+-'  1  20  ~/johnrego/second
+|4,39,1,20,1755267058,"~/johnrego/second"
+-'  1  20  ~/johnrego/second
+|4,39,1,20,1755267058,"~/johnrego/second"
+-'  1  20  ~/johnrego/second
+|4,39,1,20,1755267058,"~/johnrego/second"
+-'  1  20  ~/johnrego/second
+|4,39,1,20,1755267058,"~/johnrego/second"
+-'  1  20  ~/johnrego/second
+|4,39,1,20,1755267058,"~/johnrego/second"
+-'  1  20  ~/johnrego/second
+|4,39,1,20,1755266884,"~/johnrego/second"
+-'  1  20  ~/johnrego/second
+|4,39,1,20,1755266884,"~/johnrego/second"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  1  17  ~/johnrego/rego
+|4,39,1,17,1755266662,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  4  0  ~/johnrego/rego
+|4,39,4,0,1755266646,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266586,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  6  0  ~/johnrego/rego
+|4,39,6,0,1755266555,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
+-'  2  11  ~/johnrego/rego
+|4,39,2,11,1755266534,"~/johnrego/rego"
 
 # History of marks within files (newest to oldest):
+
+> ~/johnrego/second
+	*	1755267248	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	1	21
+	+	2	17
+
+> ~/johnrego/rego
+	*	1755267240	0
+	"	1	17
+	^	1	18
+	.	2	0
+	+	1	18
+	+	2	18
+	+	4	0
+	+	3	0
+	+	2	0
+
+> ~/frist/simple
+	*	1755266517	0
+	"	1	20
+	^	1	21
+	.	1	20
+	+	1	20
+
+> ~/frist/simpel
+	*	1755266510	0
+	"	1	0
+
+> ~/frist/frist
+	*	1755266496	0
+	"	1	0
+
+> ~/johnrego/regi
+	*	1755183135	0
+	"	1	0
 
 > ~/rego.txt
 	*	1755182142	0
